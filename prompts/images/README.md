@@ -1,16 +1,16 @@
-# 🎨 Image Generation Prompts
+# 🎨 Görsel Oluşturma Promptları
 
-> "Turning text into visual masterpieces."
+> "Metni görsel şaheserlere dönüştürmek."
 
-Prompts designed for text-to-image models like Midjourney, DALL-E 3, and Stable Diffusion.
+Midjourney, DALL-E 3 ve Stable Diffusion gibi metinden-görsele (text-to-image) modelleri için tasarlanmış promptlar.
 
-### Models Supported
+### Desteklenen Modeller
 - Midjourney v6
 - DALL-E 3
 - Stable Diffusion XL
 
-### Structure of a Good Image Prompt
-`[Subject] + [Style] + [Lighting] + [Composition] + [Parameters]`
+### İyi Bir Görsel Prompt'unun Yapısı
+`[Konu] + [Stil] + [Aydınlatma] + [Kompozisyon] + [Parametreler]`
 
-**Example:**
-> A futuristic cyberpunk city street at night, neon lights, rain reflections, cinematic lighting, 8k resolution --ar 16:9
+**Örnek:**
+> Gece vakti fütüristik bir cyberpunk şehir sokağı, neon ışıklar, yağmur yansımaları, sinematik aydınlatma, 8k çözünürlük --ar 16:9

@@ -1,14 +1,14 @@
-# 💻 Coding Prompts
+# 💻 Kodlama Promptları
 
-> "Code like a wizard, debug like a machine."
+> "Bir büyücü gibi kodlayın, bir makine gibi hata ayıklayın."
 
-This section contains prompts optimized for software development, debugging, and architecture design.
+Bu bölüm yazılım geliştirme, hata ayıklama (debug) ve mimari tasarımı için optimize edilmiş prompt'ları içerir.
 
-### Quick Links
-- [Python Expert](./python-expert.md) (coming soon)
-- [React Component Generator](./react-generator.md) (coming soon)
+### Hızlı Bağlantılar
+- [Python Uzmanı](./python-expert.md) (yakında)
+- [React Bileşen Oluşturucu](./react-generator.md) (yakında)
 
-### Best Practices for Coding Prompts
-1. **Specify Language & Version**: "Python 3.10" or "React 18".
-2. **Provide Context**: Show existing code snippets.
-3. **Ask for Explanations**: Request comments or docstrings.
+### Kodlama Promptları İçin En İyi Uygulamalar
+1. **Dili ve Sürümü Belirtin**: "Python 3.10" veya "React 18" gibi.
+2. **Bağlam Sağlayın**: Mevcut kod parçacıklarını gösterin.
+3. **Açıklama İsteyin**: Yorum satırları veya docstring'ler talep edin.

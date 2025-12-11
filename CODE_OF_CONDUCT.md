@@ -1,43 +1,43 @@
-# Start of Code of Conduct
+# Davranış Kuralları Başlangıcı
 
-## Our Pledge
+## Taahhüdümüz
 
-We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+Üyeler, katkıda bulunanlar ve liderler olarak bizler, yaş, beden ölçüsü, görünür veya görünmez engellilik, etnik köken, cinsiyet özellikleri, cinsiyet kimliği ve ifadesi, deneyim seviyesi, eğitim, sosyo-ekonomik statü, milliyet, kişisel görünüm, ırk, din veya cinsel kimlik ve yönelimden bağımsız olarak topluluğumuza katılımı herkes için tacizden arındırılmış bir deneyim haline getirmeyi taahhüt ediyoruz.
 
-We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
+Açık, hoşgörülü, çeşitli, kapsayıcı ve sağlıklı bir topluluğa katkıda bulunacak şekillerde hareket etmeyi ve etkileşimde bulunmayı taahhüt ediyoruz.
 
-## Our Standards
+## Standartlarımız
 
-Examples of behavior that contributes to a positive environment for our community include:
+Topluluğumuz için olumlu bir ortama katkıda bulunan davranış örnekleri şunlardır:
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the overall community
+* Diğer insanlara karşı empati ve nezaket göstermek
+* Farklı görüşlere, bakış açılarına ve deneyimlere saygılı olmak
+* Yapıcı geri bildirim vermek ve bunları nezaketle kabul etmek
+* Hatalarımızdan etkilenenlere karşı sorumluluğu kabul etmek, özür dilemek ve bu deneyimden ders çıkarmak
+* Sadece birey olarak bizim için değil, genel topluluk için en iyi olana odaklanmak
 
-Examples of unacceptable behavior include:
+Kabul edilemez davranış örnekleri şunlardır:
 
-* The use of sexualized language or imagery, and sexual attention or advances of any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a professional setting
+* Cinselleştirilmiş dil veya görüntüler kullanmak ve her türlü istenmeyen cinsel ilgi veya yaklaşım
+* Trolleme, hakaret edici veya aşağılayıcı yorumlar ve kişisel veya politik saldırılar
+* Herkese açık veya özel taciz
+* Başkalarının fiziksel veya e-posta adresi gibi özel bilgilerini açık izinleri olmadan yayınlamak
+* Profesyonel bir ortamda uygunsuz sayılabilecek diğer davranışlar
 
-## Enforcement Responsibilities
+## Yaptırım Sorumlulukları
 
-Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
+Topluluk liderleri, kabul edilebilir davranış standartlarımızı netleştirmekten ve uygulamaktan sorumludur; uygunsuz, tehditkar, saldırgan veya zararlı gördükleri her türlü davranışa karşı uygun ve adil düzeltici önlemleri alacaklardır.
 
-## Scope
+## Kapsam
 
-This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces.
+Bu Davranış Kuralları tüm topluluk alanlarında geçerlidir ve ayrıca bir bireyin topluluğu halka açık alanlarda resmi olarak temsil ettiği durumlarda da geçerlidir.
 
-## Enforcement
+## Yaptırım
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement. All complaints will be reviewed and investigated promptly and fairly.
+Taciz edici veya başka bir şekilde kabul edilemez davranış örnekleri, yaptırımdan sorumlu topluluk liderlerine bildirilebilir. Tüm şikayetler derhal ve adil bir şekilde incelenecek ve soruşturulacaktır.
 
-## Attribution
+## Atıf
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 2.1, available at https://www.contributor-covenant.org/version/2/1/code_of_conduct.html.
+Bu Davranış Kuralları, [Contributor Covenant][homepage] sürüm 2.1'den uyarlanmıştır, https://www.contributor-covenant.org/version/2/1/code_of_conduct.html adresinde mevcuttur.
 
 [homepage]: https://www.contributor-covenant.org

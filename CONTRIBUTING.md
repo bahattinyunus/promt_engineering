@@ -1,34 +1,34 @@
-# Contributing to Prompt Engineering
+# Prompt Mühendisliği'ne Katkıda Bulunma
 
-Thank you for your interest in contributing to the **Prompt Engineering** repository! We welcome contributions from everyone to help make this the ultimate resource for AI communication.
+**Prompt Mühendisliği** deposuna katkıda bulunmaya gösterdiğiniz ilgi için teşekkür ederiz! Burayı yapay zeka iletişimi için en iyi kaynak haline getirmek adına herkesin katkılarını bekliyoruz.
 
-## How to Contribute
+## Nasıl Katkıda Bulunabilirsiniz?
 
-### 1. Share a Prompt
-We are always looking for high-quality, tested prompts.
-- Navigate to the appropriate category in `prompts/` (e.g., `prompts/coding` or `prompts/images`).
-- Create a new Markdown file (e.g., `expert-python-debugger.md`) or add to an existing collection.
-- Follow the format:
+### 1. Bir Prompt Paylaşın
+Her zaman yüksek kaliteli ve test edilmiş prompt'lar arıyoruz.
+- `prompts/` altındaki uygun kategoriye gidin (örneğin `prompts/coding` veya `prompts/images`).
+- Yeni bir Markdown dosyası oluşturun (örneğin `uzman-python-hata-ayiklayici.md`) veya mevcut bir koleksiyona ekleyin.
+- Şu formatı takip edin:
   ```markdown
-  ## [Prompt Name]
-  **Description:** What does this prompt do?
-  **Model:** (e.g., GPT-4, Claude 3, Midjourney)
+  ## [Prompt Adı]
+  **Açıklama:** Bu prompt ne işe yarar?
+  **Model:** (örneğin GPT-4, Claude 3, Midjourney)
   **Prompt:**
-  > [Paste prompt here]
-  **Example Output:** (Optional but recommended)
+  > [Prompt'u buraya yapıştırın]
+  **Örnek Çıktı:** (İsteğe bağlı ama önerilir)
   ```
 
-### 2. Improve Documentation
-- Found a typo?
-- Want to add a new section on "Chain of Thought" prompting?
-- Feel free to submit a PR!
+### 2. Dokümantasyonu Geliştirin
+- Bir yazım hatası mı buldunuz?
+- "Düşünce Zinciri" (Chain of Thought) hakkında yeni bir bölüm mü eklemek istiyorsunuz?
+- Bir Pull Request (PR) göndermekten çekinmeyin!
 
-### 3. Reporting Issues
-If you find a prompt that doesn't work as described or breaks guidelines, please open an Issue.
+### 3. Sorun Bildirme (Issues)
+Açıklandığı gibi çalışmayan veya kurallara uymayan bir prompt bulursanız, lütfen bir "Issue" açın.
 
-## Style Guide
-- Keep prompts distinct from explanations.
-- Use **bold** for key variables or instructions.
-- Be respectful and constructive in discussions.
+## Stil Rehberi
+- Prompt'ları açıklamalardan ayrı tutun.
+- Önemli değişkenler veya talimatlar için **kalın** yazı kullanın.
+- Tartışmalarda saygılı ve yapıcı olun.
 
-Thank you for helping us build the future of human-AI collaboration!
+İnsan-YZ işbirliğinin geleceğini inşa etmemize yardım ettiğiniz için teşekkürler!

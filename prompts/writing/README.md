@@ -1,14 +1,14 @@
-# ✍️ Writing & Content Prompts
+# ✍️ Yazarlık ve İçerik Promptları
 
-> "Unleash your inner wordsmith with AI assistance."
+> "Yapay zeka desteğiyle içinizdeki yazarı ortaya çıkarın."
 
-This section focuses on prompts for creative writing, copywriting, technical writing, and editing.
+Bu bölüm yaratıcı yazarlık, reklam yazarlığı, teknik yazarlık ve düzenleme (editörlük) prompt'larına odaklanır.
 
-### Categories
-- **Creative**: Stories, poems, scripts.
-- **Business**: Emails, reports, proposals.
-- **Marketing**: Ad copy, social media posts.
+### Kategoriler
+- **Yaratıcı**: Hikayeler, şiirler, senaryolar.
+- **İş**: E-postalar, raporlar, teklifler.
+- **Pazarlama**: Reklam metinleri, sosyal medya gönderileri.
 
-### Tips
-- Define the **Persona** (e.g., "Act as a senior editor").
-- Specify the **Tone** (e.g., "Professional yet approachable").
+### İpuçları
+- **Persona (Kişilik)** Tanımlayın (örneğin, "Kıdemli bir editör gibi davran").
+- **Tonu** Belirtin (örneğin, "Profesyonel ama samimi").

@@ -1,13 +1,13 @@
-# 🚀 Productivity & Life Hacks
+# 🚀 Üretkenlik ve Hayat Tüyoları
 
-> "Optimize your workflow and organize your life."
+> "İş akışınızı optimize edin ve hayatınızı düzenleyin."
 
-Prompts to help with planning, summarizing, learning, and daily tasks.
+Planlama, özetleme, öğrenme ve günlük görevlerde yardımcı olacak promptlar.
 
-### Use Cases
-- **Summarization**: Condensing long articles or meetings.
-- **Planning**: Travel itineraries, study schedules.
-- **Learning**: Explaining complex concepts simply.
+### Kullanım Alanları
+- **Özetleme**: Uzun makaleleri veya toplantıları kısaltmak.
+- **Planlama**: Seyahat rotaları, çalışma programları.
+- **Öğrenme**: Karmaşık kavramları basitçe açıklamak.
 
-### Example
-> "Act as a productivity coach. Create a prioritized daily schedule based on the following task list..."
+### Örnek
+> "Bir üretkenlik koçu gibi davran. Aşağıdaki görev listesine dayanarak önceliklendirilmiş bir günlük program oluştur..."
